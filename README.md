@@ -1,9 +1,9 @@
 <h1>cloud-music</h1>
 <p>cloud-music 基于 Vue(2.6) + Vue-cli(3.0) + Vuex + Vue-router + Axios + Muse-UI + Less + ES6 等开发一款移动端音乐 WebApp，采用flex 布局适配常见移动端。
 <h2>预览</h2>
-<p align="center"><img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112091801.png" width="240px" />&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112100441.png" width="240px" /></p>
-<p align="center"><img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112103210.png" width="240px" />&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112103659.png" width="240px" /></p>
-<p>上图分别为：首页、歌单、搜索、播放中心等业务页面</p>
+<p align="center"><img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112091801.png" width="240px" />&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191113140202.png" width="240px" />&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112100441.png" width="240px" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112103210.png" width="240px" />&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191112103659.png" width="240px" />&nbsp; &nbsp;<img src="https://raw.githubusercontent.com/EmptyG2018/common-doc-static/master/cloud-music/images/20191113141014.png" width="240px" /></p>
+<p>上图分别为：首页、播放列表、歌单、搜索、播放中心等业务页面</p>
 <h2>技术栈</h2>
 <h3>前端</h3>
 
@@ -13,6 +13,7 @@
 - `axios`：用来请求后端 API 音乐数据
 - `less`：css 预编译处理器
 - `ES6`：ECMAScript2015 新一代语法，模块化、解构赋值、Promise异步编程、方法扩展等
+- `Muse-UI`：基于 Vue2.0 的 Material Design UI 库
 
 <h3>后端</h3>
 
