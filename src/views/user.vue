@@ -1,9 +1,8 @@
 <template>
-	<div data-page='player'>
-	</div>
+  <div data-page="player"></div>
 </template>
 <script>
 export default {
-	middleware: 'auth'
-}
+  middleware: "auth"
+};
 </script>
